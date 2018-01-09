@@ -8,6 +8,7 @@
 /// 3 jan 2 hours work on main
 /// 5 jan 4 hours work on those hard maths yo
 /// 8 jan finishing comments and double checking and testing 3 hours
+/// 9 jan uploading to git + committing 
 /// 
 /// issues
 /// angle between isn't working
